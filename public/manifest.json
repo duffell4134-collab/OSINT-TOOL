@@ -1,0 +1,18 @@
+{
+  "short_name": "OSINT Nexus",
+  "name": "OSINT Nexus - Threat Intelligence & Recon",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%230891b2'/><path d='M30 40 L50 50 L30 60 Z' fill='%23ffffff'/><rect x='55' y='55' width='18' height='4' fill='%2322d3ee'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "categories": ["utilities", "productivity", "developer"]
+}

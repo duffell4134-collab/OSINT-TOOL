@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">OSINT Nexus</string>
+    <string name="title_activity_main">OSINT Nexus</string>
+    <string name="package_name">com.osintnexus.app</string>
+    <string name="custom_url_scheme">com.osintnexus.app</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "OSINT Search Suite",
+  "description": "All-in-one Open Source Intelligence (OSINT) research & investigation platform combining username scanners, DNS/RDAP recon, certificate transparency, IP intelligence, Google & GitHub Dork builder, live CDX archive explorer, and interactive OSINT framework tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
